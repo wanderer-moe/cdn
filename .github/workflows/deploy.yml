@@ -1,0 +1,27 @@
+name: One-way sync to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+      # runs the workflow on push to the main branch
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        # checks out the repository
+
+      - name: Setup rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          mkdir -p ~/.config/rclone
+          echo ${{ secrets.RCLONE_CONFIG }} | base64 -d > ~/.config/rclone/rclone.conf
+        # installs rclone, sets up the rclone config file with the contents of the RCLONE_CONFIG secret encoded in base64
+
+      - name: Sync to Cloudflare R2
+        run: |
+          rclone --multi-thread-streams 4 sync ./r2/ r2:wanderer-moe --config ~/.config/rclone/rclone.conf --exclude "*.ini" --progress --update --no-update-modtime
+        # syncs the contents of the ./r2/ directory to the r2 bucket, with the --update flag to only upload new files and skip existing ones

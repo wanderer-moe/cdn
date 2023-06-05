@@ -1,0 +1,104 @@
+{
+    "options": [{
+            "name": "Rarity",
+            "entries": ["5 star", "4 star"]
+        },
+        {
+            "name": "Path",
+            "entries": ["Adaptive", "The Abundance", "The Destruction", "The Erudition", "The Harmony", "The Hunt", "The Nihility", "The Preservation"]
+        },
+        {
+            "name": "Element",
+            "entries": ["Lightning", "Fire", "Wind", "Physical", "Ice", "Fire", "Quantum", "Adaptive", "Imaginary"]
+        },
+        {
+            "name": "Faction",
+            "entries": ["Antimatter Legion", "Annihilation Gang", "Xianzhou Alliance", "Cloud Knights", "Xianzhou Luofu Commissions", "Sky-Faring Commission", "Divination Commission", "Realm-Keeping Commission", "Artisanship Commission", "Alchemy Commission", "Ten-Lords Commission", "Hexafleet", "Galaxy Rangers", "Disciples of Sanctus Medicus", "Abominations of Abundance", "Elixir Seekers", "The Architects", "Interastral Peace Corporation", "Genius Society", "Intelligentsia Guild", "The Family", "Doctors of Chaos", "Device IX", "The Swarm", "Garden of Recollection", "The Cremators", "Mourning Actors", "Masked Fools", "Knights of Beauty", "Mirror Holders", "Omen Vanguards", "Creed Exequy", "The Riddlers", "History Fictionologists", "Stellaron Hunters", "The Union", "Silvermane Guards", "Wildfire", "Intergalactic Merchant Guild"]
+        },
+        {
+            "name": "Location",
+            "entries": ["Administrative District", "Astral Express", "Base Zone", "Belobog", "Boulder Town", "Eversummer Florist", "Everwinter Hill", "Everwinter Monument", "Fight Club", "Gathering Place", "Goethe Grand Hotel", "Goethe Hotel", "Golden Theater", "Great Mine", "Herta Space Station", "Jarilo-VI", "Master Control Zone", "Natasha's Clinic", "Orphanage", "Overworld", "Qlipoth Fort", "Rivet Town", "Robot Settlement", "Seat of Divine Foresight", "Storage Zone", "Supply Zone", "Svarog Mansion", "The Xianzhou Luofu", "Underground Operations", "Underworld"]
+        },
+        {
+            "name": "Gender",
+            "entries": ["Male", "Female", "Non-binary"]
+        },
+        {
+            "name": "Pronouns",
+            "entries": ["He/Him", "She/Her", "They/Them", "He/They", "She/They"]
+        },
+        {
+            "name": "Height",
+            "entries": ["Short", "Average", "Tall"]
+        },
+        {
+            "name": "Age",
+            "entries": ["Child", "Teenager", "Adult"]
+        },
+        {
+            "name": "Role",
+            "entries": ["DPS", "Support", "Sub-DPS", "Healer", "Tank"]
+        },
+        {
+            "name": "Hair Type",
+            "entries": ["Short", "Medium", "Long"]
+        },
+        {
+            "name": "Hair Style",
+            "entries": ["Curly", "Straight", "Wavy"]
+        },
+        {
+            "name": "Personality Type",
+            "entries": [
+                "INTP",
+                "INTJ",
+                "ENTP",
+                "ENTJ",
+                "INFJ",
+                "INFP",
+                "ENFJ",
+                "ENFP",
+                "ISTJ",
+                "ISFJ",
+                "ESTJ",
+                "ESFJ",
+                "ISTP",
+                "ISFP",
+                "ESTP",
+                "ESFP"
+            ]
+        },
+        {
+            "name": "Hair Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        },
+        {
+            "name": "Eye Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        }
+    ]
+}

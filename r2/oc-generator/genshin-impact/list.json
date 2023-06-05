@@ -1,0 +1,162 @@
+{
+    "options": [{
+            "name": "Rarity",
+            "entries": ["5 star", "4 star"]
+        },
+        {
+            "name": "Weapon",
+            "entries": ["Sword", "Bow", "Catalyst", "Claymore", "Polearm"]
+        },
+        {
+            "name": "Element",
+            "entries": ["Pyro", "Hydro", "Electro", "Anemo", "Cryo", "Geo", "Dendro"]
+        },
+        {
+            "name": "Gender",
+            "entries": ["Male", "Female", "Non-binary"]
+        },
+        {
+            "name": "Pronouns",
+            "entries": ["He/Him", "She/Her", "They/Them", "He/They", "She/They"]
+        },
+        {
+            "name": "Height",
+            "entries": ["Short", "Average", "Tall"]
+        },
+        {
+            "name": "Age",
+            "entries": ["Child", "Teenager", "Adult"]
+        },
+        {
+            "name": "Role",
+            "entries": ["DPS", "Support", "Sub-DPS", "Healer"]
+        },
+        {
+            "name": "Hair Type",
+            "entries": ["Short", "Medium", "Long"]
+        },
+        {
+            "name": "Hair Style",
+            "entries": ["Curly", "Straight", "Wavy"]
+        },
+        {
+            "name": "Personality Type",
+            "entries": [
+                "INTP",
+                "INTJ",
+                "ENTP",
+                "ENTJ",
+                "INFJ",
+                "INFP",
+                "ENFJ",
+                "ENFP",
+                "ISTJ",
+                "ISFJ",
+                "ESTJ",
+                "ESFJ",
+                "ISTP",
+                "ISFP",
+                "ESTP",
+                "ESFP"
+            ]
+        },
+        {
+            "name": "Region",
+            "entries": [
+                "Dragonspine",
+                "Enkanomiya",
+                "Fontaine",
+                "Inazuma",
+                "Khaenri'ah",
+                "Liyue",
+                "Mondstadt",
+                "Natlan",
+                "Snezhnaya",
+                "Sumeru"
+            ]
+        },
+        {
+            "name": "Affiliation",
+            "entries": [
+                "???",
+                "Adepti",
+                "Adventurers Guild",
+                "Akademiya",
+                "Bantan Sango Detective Agency",
+                "Blackcliff Forge",
+                "Bubu Pharmacy",
+                "Court of Fontaine",
+                "Dawn Winery",
+                "Ermites",
+                "Favonius Church",
+                "Fatui",
+                "Fatui Harbinger",
+                "Gandharva Ville",
+                "Inazuma Shogunate",
+                "International Trade Comission",
+                "Knights of Favonius",
+                "Komore Teahouse",
+                "Kujou Clan",
+                "Liyue Qixing",
+                "Mahamatra",
+                "Ministry of Civil Affairs",
+                "Naganohora Fireworks",
+                "Narukami Shrine",
+                "Northland Bank",
+                "Sangonomiya Shrine",
+                "Springvale",
+                "Tenryou Comission",
+                "Wangsheng Funeral Parlor",
+                "Wangshu Inn",
+                "Yaksha"
+            ]
+        },
+        {
+            "name": "Ascension Substats",
+            "entries": [
+                "ATK",
+                "Crit DMG",
+                "Crit Rate",
+                "DEF",
+                "Elemental DMG Bonus",
+                "Elemental Mastery",
+                "Energy Recharge",
+                "Healing Bonus",
+                "HP",
+                "Physical DMG Bonus"
+            ]
+        },
+        {
+            "name": "Hair Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        },
+        {
+            "name": "Eye Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        }
+    ]
+}

@@ -38,16 +38,6 @@ acl = private
 
 - The configuration above will give you access to all your R2 buckets, and will allow you to sync to them, you would specify like `r2:<bucket_name>` in the `rclone` command.
 
-## Contributing
-
-Make a pull request & [follow the template](pull_request_template.md) with any assets, games, etc you want to add to the CDN - it'll be reviewed and merged if it's appropriate.
-
-- If you are to upload assets, please make sure the files are named appropriately such as `genshin-impact/splash-art/keqing-nobg.png`.
-
-- If you're uploading a fanmade asset, it has to be **your own work, or you must have permission from the original creator.** (Please provide proof of this in the pull request) and it must be **clearly** stated in the file name, such as `genshin-impact/character-sheets/keqing-fanmade.png`.
-
-- And, check for any conflicts (e.g files already existing with the same image / name)
-
 ## Authors
 
 - [@dromzeh](https://www.github.com/dromzeh)
